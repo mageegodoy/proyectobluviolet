@@ -1,0 +1,80 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+JP&display=swap');
+   
+
+html{
+    font-size: 62.5%;
+    box-sizing: border-box;
+}
+
+*, *::before, *::after{
+    box-sizing: inherit;
+}
+
+body{
+    margin:0;
+    padding:0;
+    line-height: 1.6;
+    font-family: 'Noto Sans JP', sans-serif;
+    
+}
+
+ul{
+    list-style-type: none;
+}
+
+a{
+    text-decoration: none;
+    display: inline-block;
+    color: whitesmoke;
+}
+
+img{
+    width:80%;
+    height: auto;
+}
+
+nav, .servicios, .presentacion, .footer-content{
+    width: 80%;
+    margin:auto;
+}
+
+.titulo-servicios, .presentacion{
+    margin-bottom: auto;
+}
+
+
+//  MIXINS
+
+@mixin caja-flex($principal, $cruzado, $wrap){
+    display: flex;
+    justify-content: $principal;
+    align-items: $cruzado;
+    flex-wrap: $wrap;
+}
+
+//  SASS
+
+@function font-calc($size, $type){
+
+    $font: 16;
+
+    @if $type ==h1{
+        $font: ($size + 0.2*$size);
+    }
+
+    @if $type ==h2{
+        $font: ($size + 0.1*$size);
+    }
+
+    @else{
+        $font: 16;
+    }
+
+    @return $font + px;
+
+}
+
+.ejemplo{
+    font-size: font-calc(50, h2);
+} 
+
