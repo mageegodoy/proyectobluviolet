@@ -1,0 +1,30 @@
+__En el archivo index.html sumé el SEO con las siguientes características:
+-Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: "¿Estás listo para combine con tu mascota?" 
+-Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "indumentaria, mascotas, outfit, hombre, mujer".
+-Titulo: utilicé el texto “Indumentaria | BluViolet”.
+
+__En el archivo Colecciones.html sumé el SEO con las siguientes características:
+-Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: "¿Quieres sentirte comodo y verte genial? Estas en el lugar Correcto." 
+-Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "indumentaria, mascotas, outfit, hombre, mujer".
+-Titulo: utilicé el texto "Colecciones | BluViolet".
+
+__En el archivo Contacto.html sumé el SEO con las siguientes características:
+-Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: "HACÉ TU PEDIDO ONLINE - ENVÍOS A TODO EL PAÍS"
+-Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "indumentaria, mascotas, outfit, hombre, mujer".
+-Titulo: utilicé el texto "Contacto | BluViolet".
+
+
+__En el archivo Indumentaria.html sumé el SEO con las siguientes características:
+-Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio:"Tiendas Online. Indumentaria para damas, caballero y mascotas. Haga su pedido online con envíos a todo el país."
+-Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio: "Indumentaria,talles especiales,pedido online,envíos a domicilio".
+-Titulo: utilicé el texto "Indumentaria| Bluviolet".
+
+__En el archivo  Marca.html sumé el SEO con las siguientes características:
+-Descripción: mediante la etiqueta meta name description, agregué el siguiente párrafo que explica en pocas palabras el contenido de mi sitio: ""Tiendas Online. Indumentaria para damas, caballero y mascotas. Haga su pedido online con envíos a todo el país."
+-Palabras clave: mediante la etiqueta meta name keywords, agregué las palabras clave que acompañarán a todas las páginas de mi sitio:"Indumentaria,talles especiales,pedido online,envíos a domicilio".
+-Titulo: utilicé el texto "Conocenos| Marca".
+
+
+
+
+
